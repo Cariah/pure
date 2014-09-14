@@ -1,0 +1,29 @@
+.btn-success,
+.btn-error,
+.btn-warning {
+	color: white;
+	border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+}
+.btn-success {
+	background: rgb(28,184,65);
+}
+.btn-error {
+	background: rgb(202, 60,60);
+}
+.btn-warning {
+ background: rgb(223, 117,20);
+}
+
+.btn-xs {
+	font-size: 70%;
+}
+.btn-sm {
+	font-size: 85%;
+}
+.btn-lg {
+	font-size: 110%;
+}
+.btn-xlg {
+	font-size: 125%;
+}

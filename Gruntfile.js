@@ -55,7 +55,8 @@ grunt.initConfig({
 
                 {'build/buttons.css': [
                     'build/buttons-core.css',
-                    'build/buttons.css'
+                    'build/buttons.css',
+                    'build/buttons-custom.css'
                 ]},
 
                 {'build/forms-nr.css': [
